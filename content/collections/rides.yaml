@@ -1,0 +1,10 @@
+title: rides
+template: rides/show
+layout: layout
+revisions: false
+route: '/rides/{slug}'
+date: true
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private

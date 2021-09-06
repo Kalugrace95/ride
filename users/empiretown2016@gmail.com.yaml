@@ -1,0 +1,16 @@
+name: Grace
+super: true
+id: 29d2aae1-a865-4e67-8e0a-ab621803c379
+password_hash: $2y$10$LPTHXrW4txCQbcD1r2FOOuQhg0Mi51sIy6tUcmUY/fB5XisiP4fhy
+preferences:
+  collections:
+    rides:
+      columns:
+        - title
+        - date
+        - ride_type
+        - overview
+        - passengers_carriage
+        - price
+        - description
+        - photo
